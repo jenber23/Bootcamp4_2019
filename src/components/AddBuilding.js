@@ -3,6 +3,8 @@ import {ButtonToolbar} from 'react-bootstrap';
 import {Button} from 'react-bootstrap';
 
 /*
+    **ADD WORKS but added won't display in "Column 2"**
+
     Need to add a building to the listing
     Note: do not modify data.js (upon refresh, added is removed)
 
