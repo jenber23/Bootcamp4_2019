@@ -2,11 +2,7 @@ import React from 'react';
 import {ButtonToolbar} from 'react-bootstrap';
 import {Button} from 'react-bootstrap';
 /*
-    Need to add a building to the listing
-    Note: do not modify data.js (upon refresh, added is removed)
-
-    Need to make implement an "add" button
-    Then have search functions to input data
+    ***REMOVE DOES NOT WORK, did not have time to finish :( ***
 */
 //https://reactjs.org/docs/forms.html
 //https://react-bootstrap.github.io/components/buttons/
