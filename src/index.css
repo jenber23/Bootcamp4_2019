@@ -110,10 +110,11 @@ td:hover {
 .btn {	
 	background: #ddd;
 	color: #000000;
-	padding: 1rem 5rem;
-	font-size: 0.8rem;
-	border: solid 1px #c7c7c7;
-	margin: .05rem 4rem;
+	padding: 1rem 10rem;
+	
+	font-size: 1rem;
+	border: solid 2px #c7c7c7;
+	margin: .05rem 8rem;
 	box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
 	border-radius: 12px;
 	
